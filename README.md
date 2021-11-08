@@ -15,7 +15,7 @@ A Flutter package that will help you to display a long text in a small space.
 
 ## How to use it
 ```dart
-TextDisplay(
+OverflowTextWidget(
   text: Text(
     "Mollit aute cupidatat ullamco sit dolor id non proident veniam enim ad dolore amet culpa.",
     softWrap: false,
